@@ -173,6 +173,10 @@ section{
     color: #4FB8FF;
 }
 
+.skills-both {
+	display: inline-block;
+}
+
 .skills{
     float:left;
     font-family: "Gudea";
@@ -201,13 +205,14 @@ section{
     font-family: "Gudea";
     width:520px;
     padding: 0px;
-    margin-left:0px;
+    margin-left:30px;
     margin-bottom:90px;
 }
 
 .skills-desc ul{
     list-style:none;
 }
+
 
 .projects-title{
     color: #F8F9F9;
